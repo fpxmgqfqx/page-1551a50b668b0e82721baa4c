@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "726285f76d2212bfebf2ade6",
+  "owner": "fpxmgqfqx",
+  "repo": "page-1551a50b668b0e82721baa4c",
+  "title": "维尼云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1551a50b668b0e82721baa4c",
+      "a": "维尼云",
+      "b": "",
+      "entity": "维尼云",
+      "brand": "维尼云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c128604bea0cb191175be9e13a7c38ed1eed74d7864682c6fbe0ec7ca3676f6a",
+      "content": {
+        "keyword1": "维尼云",
+        "keyword2": "",
+        "primary_entity": "维尼云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "维尼云是专注网络加速的官方平台，提供稳定VPN梯子、机场订阅套餐与多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公。访问维尼云官网对比套餐并获取官方指引。",
+          "AI_DESCRIPTION": "维尼云是专注网络加速的官方平台，提供稳定VPN梯子、机场订阅套餐与多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公。访问维尼云官网对比套餐并获取官方指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background-color:#071422;color:#dcefff;font-size:17px;line-height:1.7}a{color:#22d3ee;text-decoration:none}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 18px;padding:12px 16px;background:#0c2340;border-bottom:1px solid #164060}nav a{color:#a5f3fc;font-size:0.95rem}main{display:block} .hero{padding:88px 24px 56px;text-align:center;background:#0a1f38}h1{font-size:clamp(2.15rem,6vw,3.15rem);font-weight:700;color:#ffffff;margin:0 0 14px;letter-spacing:0.1em} .tagline{font-size:1.12rem;color:#7dd3fc;margin:0 auto;max-width:34em} .wrap{padding:0 20px 64px;max-width:1040px;margin:0 auto}section{margin-top:48px}h2{font-size:1.5rem;color:#22d3ee;margin:0 0 14px;font-weight:600}h3{font-size:1.12rem;color:#67e8f9;margin:22px 0 8px}p,li{color:#c5dff0} .plans{display:flex;flex-wrap:wrap;gap:18px;justify-content:center;margin:24px 0 8px} .plan{background:#0c2748;border:1px solid #1e4d73;border-radius:10px;padding:26px 20px;flex:1 1 250px;max-width:320px} .plan.featured{border:2px solid #22d3ee;background:#0e3058} .plan h3{margin-top:0;color:#fff;font-size:1.28rem} .price{font-size:1.75rem;color:#22d3ee;font-weight:700;margin:6px 0} .annual{font-size:0.9rem;color:#7dd3fc} .plan ul{padding-left:18px;margin:14px 0 0} .plan li{margin-bottom:7px} .cta{display:inline-block;margin-top:16px;padding:8px 14px;background:#155e75;color:#fff;border-radius:6px}details{background:#0c2748;border:1px solid #1e4d73;border-radius:8px;margin-bottom:10px;padding:2px 16px}summary{padding:12px 0;font-weight:600;color:#ffffff}details p{margin:0 0 14px}footer{background:#05101c;padding:36px 20px;text-align:center;font-size:0.9rem;color:#8ab4c8} .ads{border:1px dashed #1e4d73;padding:14px;margin:18px auto;max-width:720px;color:#67e8f9} .sitemap,.friends{margin:16px 0;line-height:1.9}footer a{color:#7dd3fc} @media (max-width:640px){h1{font-size:2rem}.hero{padding:64px 16px 40px}.plan{max-width:100%}nav{font-size:0.88rem}}</style><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#howto\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav><main><div class=\"hero\"><h1>维尼云</h1><p class=\"tagline\">官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载指引，套餐透明、节点覆盖亚洲与海外主要地区。</p></div><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>维尼云是面向个人与团队的网络加速服务品牌，以机场订阅方式交付节点与流量。用户在维尼云官网完成套餐选择后，即可获得订阅链接，并在 Clash、v2rayN、Shadowrocket 等客户端中导入使用。我们关注线路质量与配置体验，而不是堆砌难以核实的口号。</p><p>服务侧重点包括日常跨境访问、流媒体解锁、游戏向低延迟线路以及多设备同时在线。基础版适合轻度使用，旗舰版面向经常观看影视与在线对战的用户，团队版则提供更大流量与更多终端名额。年付可降低月均成本，具体以套餐页展示为准。</p><p>维尼云坚持把规则写清楚：流量按周期计量，同时在线设备有上限，节点会随网络环境调整。官网提供套餐对比、操作说明与常见问题，方便首次使用的用户按步骤完成连接，减少反复试错。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为维尼云当前公开套餐。价格、流量与设备数量是选择时的核心差异；旗舰版在流媒体与游戏线路上更完整，适合作为默认方案。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#howto\">查看订阅步骤</a></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#howto\">查看订阅步骤</a></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#howto\">查看订阅步骤</a></div></div><p>选择时建议先估算同时在线设备与每月实际消耗。轻度浏览可选基础版；经常解锁影视或需要游戏专线，旗舰版更合适；工作室、宿舍或多终端统一管理可考虑团队版。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料协作</h3><p>远程会议、云盘同步与海外文档站点对稳定性和延迟更敏感。维尼云将订阅导入客户端后，可按应用分流或全局代理，减少页面长时间转圈。团队版支持更多设备，便于笔记本、手机与办公主机同时使用同一套配置。</p><h3>流媒体观看与内容解锁</h3><p>观看海外影视、直播或音乐平台时，常需要对应地区的出口。旗舰版强调全节点原生流媒体解锁，基础版覆盖常用平台。实际可用性会随版权方策略变化，建议在客户端中切换节点并保持订阅更新。</p><h3>游戏对战与语音通话</h3><p>对延迟抖动敏感的对战与组队语音，可优先使用带 IPLC 优化的线路。旗舰版将游戏加速作为明确能力，适合需要相对稳定往返时延的玩家。仍需结合自身运营商与时段选择节点，而不是依赖单一线路。</p><h3>学习科研与公开课访问</h3><p>文献数据库、公开课视频与开发者文档多部署在海外。使用维尼云机场订阅后，可在需要时开启代理，用完即关，避免长期占用流量。基础版的 100GB 对以网页和文档为主的学习通常足够。</p><h3>出行在外的备用通道</h3><p>差旅或留学初期，公共 Wi-Fi 质量参差。提前在手机安装兼容客户端并保存维尼云订阅，可在酒店或校园网环境下快速切换节点，处理邮箱、地图与即时通讯。</p></section><section id=\"howto\"><h2>操作说明</h2><h3>一、在官网选定套餐并取得订阅</h3><p>打开维尼云官网套餐对比，确认流量、设备数与是否需要游戏专线或优先工单。完成订阅后，账户内会生成专属订阅链接。请勿将链接公开发布，他人滥用会导致流量异常或设备超限。</p><h3>二、按系统下载兼容客户端</h3><p>维尼云以机场订阅为主，客户端请使用各平台常见软件。Windows 可用 v2rayN 或 Clash 系；macOS 可用 Clash Meta 或 Surge；Android 可用 Clash Meta、v2rayNG；iOS 常用 Shadowrocket 或同类商店应用。务必从软件官方或可信商店获取，维尼云官网不托管安装包。</p><h3>三、导入订阅并完成连接</h3><p>在客户端选择“从 URL 更新/导入订阅”，粘贴维尼云提供的链接并更新节点列表。根据延迟与用途挑选线路，开启系统代理或 TUN 模式。浏览器、终端或游戏若未走代理，检查分流规则与系统时间是否准确。</p><h3>四、日常使用与排障</h3><p>定期点击更新订阅以获取节点变更。连接失败时先更换节点，再检查本地防火墙与重复代理。流量将尽或设备超限时，可升级套餐或等待周期重置。旗舰版与团队版可通过优先工单说明客户端名称、系统版本与报错时间，便于定位。</p></section><section id=\"download\"><h2>客户端下载</h2><p>维尼云官方网站提供订阅与配置说明，客户端下载请前往各软件自己的发布页。以下为常见组合，便于对照设备选择，而非替代软件官方渠道。</p><ul><li>Windows：v2rayN、Clash Verge 等，适合导入通用订阅。</li><li>macOS：ClashX.Meta、Surge 等，注意系统代理权限。</li><li>Android：Clash Meta for Android、v2rayNG，可开启 VPN 模式覆盖应用。</li><li>iOS：Shadowrocket、Stash 等，需按商店地区规则获取。</li><li>路由器与软路由：支持订阅的 OpenWrt 或同类方案，适合全家设备。</li></ul><p>完成安装后回到<a href=\"#howto\">操作说明</a>导入维尼云订阅。若只想先了解价格，可<a href=\"#plans\">返回套餐对比</a>。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>维尼云是什么？和普通加速器有何不同？</summary><p>维尼云是以机场订阅交付的网络加速服务，用户用一条订阅链接在多端客户端中更新节点。它强调流量与设备数量透明、套餐可对比，并区分普通线路、流媒体解锁与 IPLC 游戏优化，而不是只提供单一“一键加速”客户端。</p></details><details><summary>如何从维尼云官网完成客户端配置？</summary><p>先在官网选定套餐并保存订阅链接，再按设备下载兼容客户端（见客户端下载一节）。在软件中选择从 URL 导入，更新节点后开启代理即可。维尼云不强制绑定某一款闭源安装包，避免来源不明的下载。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>主要看流量、同时在线设备和线路类型。轻度浏览选基础版（100GB / 3 设备）。经常看影视或打游戏选旗舰版（300GB / 5 设备，含全节点解锁与 IPLC）。多终端或小团队选团队版（1000GB / 20 设备，含高带宽与定制路由）。</p></details><details><summary>节点不稳定或流媒体无法播放怎么办？</summary><p>先更新订阅并更换同区域其他节点，确认客户端规则没有漏掉播放器进程。流媒体策略会变化，旗舰版覆盖更全但仍可能出现个别节目限制。持续失败时记录时间、节点名称与客户端版本，通过工单反馈。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>达到当月流量后新连接会受限，需等待重置或升级套餐。超过同时在线设备数时，新终端可能无法握手。建议关闭不用的设备上的客户端，或在维尼云侧升级到更高档位。</p></details><details><summary>维尼云是否提供官方身份核验与售后？</summary><p>本页为维尼云官方网站信息展示，套餐名称与价格与品牌方案一致。售后通过账户工单进行，旗舰版强调 7x24 优先支持，团队版配备专属客户经理。请以订阅账户内通知为准，勿轻信非官网渠道的代充与所谓“内部节点”。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>维尼云官方网站 · 机场订阅与网络加速服务</p><div class=\"ads\">广告位：欢迎网络工具、教程站点与终端配件类合作方洽谈文字展示，具体通过官网工单沟通，不放置外部资源文件。</div><div class=\"sitemap\">网站地图： <a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#howto\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></div><div class=\"friends\">友情链接： <a href=\"#\">客户端配置手册</a> · <a href=\"#\">节点延迟检测方法</a> · <a href=\"#\">分流规则入门</a> · <a href=\"#\">跨境办公网络笔记</a></div><p><a href=\"#\">使用说明</a> · <a href=\"#\">隐私与数据</a> · <a href=\"#\">返回维尼云官网首页</a></p></footer>",
+          "hash": "1dc6e0ebffa7f5df2a1c2cc4270ce1983847517ba32e4bf72f1dfa4f30e915c0",
+          "seo": {
+            "title": "维尼云官网 - 机场订阅、VPN加速器与客户端下载",
+            "keywords": "维尼云,维尼云官网,维尼云VPN,维尼云机场,VPN加速器,梯子网络加速,客户端下载,机场订阅,流媒体解锁,IPLC游戏加速",
+            "description": "维尼云是专注网络加速的官方平台，提供稳定VPN梯子、机场订阅套餐与多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公。访问维尼云官网对比套餐并获取官方指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ersffea.cn",
+    "host": "p-41fa4a1e4e.ersffea.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ersffea.cn",
+      "url": "https://ersffea.cn/",
+      "label": "TAG",
+      "apex": "ersffea.cn",
+      "kind": null,
+      "identity": "jkcgyju7/page-40ef67e8f76d368b453c341a"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0864edcdc98966b9f235821e8010983bf492b6ca14e7db326948267f574d5246",
+    "sitemap.xml": "c07948b7b9b3d6c59296594e7b97d73cd09b77f7dc5975a0450f544b9bf8457c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "09df42d64e0ed7cac5c5217782b2aa196cb52b457f44506f6fbc3d7ed77adc9b",
+    "robots.txt": "e3dee4755b43ace80a4998f09fb353cfe0c159dc247cd5a9d656d9022efc05d0",
+    "443273714061622758fa3f5d8b32e24d.txt": "fdc891e53059c86e19376a8fe7503230aa3b01c0167922bf959a89dae5aed135"
+  },
+  "revision": "b346a4dafe014e503e30e1b205f942493727d5d2a39eea6671c4af5491d82667"
+}
